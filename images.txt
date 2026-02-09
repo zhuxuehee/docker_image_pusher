@@ -1,7 +1,6 @@
 elasticsearch:8.14.3
 infiniflow/infinity:v0.6.15
 oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
-sandbox-executor-manager
 mysql:8.0.39
 quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
 valkey/valkey:8
