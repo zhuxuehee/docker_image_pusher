@@ -6,4 +6,4 @@ quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
 valkey/valkey:8
 kibana:8.14.3
 ghcr.io/huggingface/text-embeddings-inference:1.6
-infini_ragflow/ragflow:latest
+infiniflow/ragflow:v0.23.1
